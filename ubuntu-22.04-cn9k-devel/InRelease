@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Wed, 05 Feb 2025 08:21:06 +0000
+MD5Sum:
+ fe49d0692aca6f5f7eb0501fda52a6d4             4843 Packages
+ 46b6a3eaeb1e86f3971bec322af71bfe             1487 Packages.gz
+ 57ca4af9dae0f5d8e0bbac97a8e1c392               38 Release
+SHA1:
+ e10941f98a1e48df6d8961a7060a82286d7b9424             4843 Packages
+ 7574fd7eea750033a47d02385882d075fb9dfd52             1487 Packages.gz
+ 1e02385dd339f214010fbf028be58e983732a8fa               38 Release
+SHA256:
+ aef2c460bbd8488484e3faf4d9e81f8a1cea86d81ffe704668d6578172939377             4843 Packages
+ b0b3cdfd10cd64619562412b1d684b4e0a984fc52b80f33db78196d210eac8a7             1487 Packages.gz
+ 034b1bd314b4038489f66d68f47ace94f0da9ac5b5ac51d342e23d54b072a2bf               38 Release
+SHA512:
+ 764e95c769b5a772bc575d2d8448682739ce56231b2ee003c67ecc93179f2f2c6a2a23cf897e37bf5891b6cef263f0fd1f0b1e921aef79d30ee40f43956dde07             4843 Packages
+ d76ca652cbb8dfefca1872dc8251ecb90df6d0aa9fa68b4315dea3b14b1c49cc658f5cd047f9c5069d719643448a8c363e81de3f7a2b69886997fe3f274b7434             1487 Packages.gz
+ 1e87c7111b31853ffc1dd8fc93042f7dbf1fd6c2939905c764cc85c92295cc53f475fe950acdff7de257dba346d6432cf863ffd031da64d664d28d7f5e88e3e2               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJXBAEBCgBBFiEE//+5+5xDoXYufjZKU0mv0kQ6hE0FAmejH3MjHGdpdGh1Yi1i
+b3QtYWNjZWxlcmF0b3JAbWFydmVsbC5jb20ACgkQU0mv0kQ6hE2ZIRAArrQ7/kcR
+huu5RJ7tVTAeMijudESoeLTdajemMVwuo6mdnz5wOaEhbd0mvVQFEu+pgO1BX+H6
+8YhXdOWV4d5oz6C4bCAlSRe3K7SQq1hNX8F0oq2p1zLr2njTdmYQPDWYXHL2MfT2
+DZtBti1TzNdEeYj1fECG5Fuaom/lo0bbVIGoZggvEUtJvWti4J6I2uibAqnCNAyN
+5a679vc20zNDe8eIbmy/5JFYjFHG9u1bjyYdsHdHDZ7udllB/iw0zIMTpdhHrSB/
+0x1OxeRUeeKnu7pYlk7XdtdFrAHvwkJDbStkQNbz13orwSUV7fr7v/x54OiG974D
+ER31K0IyzTbcjMrN0Q/a13xWEetez7jj+Ld/Y6a+PZRiLiXr3eMQrhg/7hB7LS4T
+pZ+DRP0gp6pUJtObSwberD7jUl6GVQUIwnd6U3Pxw/DbGlAXpHLRnY7NiwrhjCOu
+NoVfnSjLbquaLhJ0eePd/3qfimrI2IHb0Ux7Ri3WXtEfJU21MPbOhwE08mCHgzNW
+EPbf4Y/lBcQwOoqWeHJFzXxghj5cRwRoO5vvQ8oHiHulneGVnFDrY5dIfCJO3+/o
+tRVPVIFIW9h+Sh7B5idU+v/QUvetoRFjFtmnp0F40WsRPFv+UmCEx01V/CHD0qib
+wKl7ko0CS/UrIQ6B/CY5rxGA0nLbQ9TJXY0=
+=Gtwc
+-----END PGP SIGNATURE-----

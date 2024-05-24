@@ -1,0 +1,35 @@
+Package: cpt-firmware-cn10k
+Version: 24.09.0
+Architecture: arm64
+Maintainer: Jerin Jacob (jerinj@marvell.com)
+Filename: ./cpt-firmware-cn10k_24.09.0_arm64.deb
+Size: 104360
+MD5sum: eed5748dc4c484bf98f1b9da7e899e76
+SHA1: cc4bf3f347b61d8ce506b3602aaec46101a45819
+SHA256: 464349bda8b9806660d0deb35c4b71fb1ea63c6a375cf02eef623c9a4f38be9e
+Description: Cryptographic Accelerator Firmware for Marvell Octeon 10
+
+Package: oct-ep-target-cn10k
+Version: 25.01.0
+Architecture: arm64
+Maintainer: Jerin Jacob (jerinj@marvell.com)
+Depends: libc6 (>= 2.34), libconfig9
+Filename: ./oct-ep-target-cn10k_25.01.0_arm64.deb
+Size: 175592
+MD5sum: 17116d4edd03212e8e2293b109a2e47d
+SHA1: 5fb5c3dd29241dd4ff30f27b99bec8fd158b450c
+SHA256: 744ce27b44a824ac57c241194e9b35d8b9eff06099d9d7e6e3af44614219f295
+Description: Octeon-ep agent for Marvell Octeon 10
+
+Package: oct-ep-target-cn10k
+Version: 25.02.0
+Architecture: arm64
+Maintainer: Jerin Jacob (jerinj@marvell.com)
+Depends: libc6 (>= 2.34), libconfig9
+Filename: ./oct-ep-target-cn10k_25.02.0_arm64.deb
+Size: 175598
+MD5sum: e435c4c1af0c642f0610a0441b6c9d68
+SHA1: 3e99be96ef198ba5d96aec8f9615b65922fc6b71
+SHA256: ee249cf2afb1737cd55712a512f573b2f5427c33497c3dcab6574bc78104edb4
+Description: Octeon-ep agent for Marvell Octeon 10
+

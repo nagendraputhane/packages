@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/keyrings/dao.gpg]  https://www.marvell.com/public/repo/octeon/dao/cn10k/ubuntu/v2204/release ./
